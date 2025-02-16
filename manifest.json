@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Obsidian Theme",
+    "description": "Obsidian Theme from Notepad++ in Google Chrome",
+    "version": "1.0",
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+    "author": "LynXx",    
+    "theme": {
+        "colors": {
+            "frame": [34, 40, 42],
+            "frame_inactive": [34, 40, 42],
+            "frame_incognito": [34, 40, 42],
+            "frame_incognito_inactive": [34, 40, 42],
+            "bookmark_text": [193, 228, 163],
+            "tab_background_text": [193, 228, 163],
+            "tab_background_text_inactive": [193, 228, 163],
+            "tab_background_text_incognito": [193, 228, 163],
+            "tab_background_text_incognito_inactive": [193, 228, 163],
+            "tab_text": [240, 240, 240],
+            "toolbar":  [47, 56, 59],
+            "toolbar_button_icon": [107, 156, 62],
+            "omnibox_text": [240, 240, 240],
+            "omnibox_background": [34, 40, 42],
+            "ntp_background": [34, 40, 42],
+            "ntp_link": [193, 228, 163],
+            "ntp_text": [240, 240, 240],
+            "button_background": [34, 40, 42]
+        }
+    }
+}
